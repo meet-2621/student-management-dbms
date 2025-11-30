@@ -102,7 +102,7 @@ Getting Started
 
 Clone the repository:
 
-git clone https://github.com/<YourUsername>/student-management-dbms.git
+git clone https://github.com/meet-2621/student-management-dbms
 
 
 Open in Oracle SQL Developer or any Oracle DB environment.
